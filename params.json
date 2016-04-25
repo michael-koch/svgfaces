@@ -1,0 +1,6 @@
+{
+  "name": "svgfaces",
+  "tagline": "svgfaces is a Java Server Faces (JSF) library, that offers components to draw Scalable Vector Graphics (SVG).",
+  "body": "### Coming soon!\r\nThis page will host the project **svgfaces**. It will be a Java Server Faces (JSF) tag library, offering components to draw Scalable Vector Graphics (SVG). It will be compliant with the SVG Version 1.1 standard and current 2.0 draft and will map all client-side events to server-side events via ajax.\r\n\r\n### Visit my homepage\r\nYou are invited to visit my homepage [www.koch-coburg.de](http://www.koch-coburg.de) for more information about svgfaces, some other projects and my research.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
